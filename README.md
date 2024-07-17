@@ -13,19 +13,21 @@ Durante mi tiempo como **Data Operator en ProdSoftware Bright Sector SRL**, me d
 ## 🔬 Experiencia en Ciencia de Datos
 Recientemente, he adquirido 2 meses de experiencia en proyectos de ciencia de datos:
 
-- **Proyecto individual de sistema de recomendación de juegos**:  
-  - Involucró el proceso **ETL** y **Machine Learning**.
-  - [Steam Rec System](https://github.com/Mauro-coder555/Steam-Rec-System)
+- **Proyecto individual de sistema de recomendación de juegos**:
+  [Steam Rec System](https://github.com/Mauro-coder555/Steam-Rec-System)  
+  - Involucró **Python** - **ETL** - **Machine Learning** - **FastAPI** - **Render**.  
 
 
 - **Proyecto individual de análisis y visualización de datos**.
-  - Involucró el proceso **ETL** , **Presentación en Apache Superset**.
-  - [Road Safety System](https://github.com/Mauro-coder555/analitycs-road-safety-system)
+  [Road Safety System](https://github.com/Mauro-coder555/analitycs-road-safety-system)
+  - Involucró **Python** - **ETL** - **Docker** - **PostgreSQL** - **Apache Superset**
+  
 
-
-- **Proyecto grupal end-to-end de análisis de reviews de Google Maps y Yelp**: 
+- **Proyecto grupal end-to-end de análisis de reviews de Google Maps y Yelp**:
+ [Google + Yelp Analysis](https://github.com/Mauro-coder555/Yelp-Google-Maps-Reviews-Recommendations)
+  - Involucró **Python** - **ETL** - **GCP (cloud functions, cloud storage, big query, looker)** - **Machine Learning**
   - Participé como líder y **Data Engineer**.
-  - [Google + Yelp Analysis](https://github.com/Aeregon-Sharks/Yelp-Google-Maps-Reviews-Recommendations)
+  
 
 Estas experiencias me permitieron mejorar la eficiencia en el manejo de datos y garantizar su integridad.
 

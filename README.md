@@ -3,7 +3,7 @@
 ![Operations Analyst](https://img.shields.io/badge/Operations_Analyst-2E86AB?style=for-the-badge)
 ![Technical Support](https://img.shields.io/badge/Technical_Support-4CAF50?style=for-the-badge)
 ![Data Operations](https://img.shields.io/badge/Data_Operations-6C63FF?style=for-the-badge)
-![Developer](https://img.shields.io/badge/Developer-6C63FF?style=for-the-badge)
+![Developer](https://img.shields.io/badge/Developer-2EA44F?style=for-the-badge)
 
 Soy **Mauro Pereyra**, Operations Analyst / Technical Support con formación en Ciencias de la Computación, experiencia en plataformas de aprendizaje, soporte técnico, operaciones educativas, automatización y procesamiento de datos.
 

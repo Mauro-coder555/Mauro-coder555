@@ -1,215 +1,147 @@
-# ?? ?Hola, soy Mauro! ??
+# üåü ¬°Hola, soy Mauro! üåü
 
 ![Operations Analyst](https://img.shields.io/badge/Operations_Analyst-2E86AB?style=for-the-badge)
 ![Technical Support](https://img.shields.io/badge/Technical_Support-4CAF50?style=for-the-badge)
 ![Data Operations](https://img.shields.io/badge/Data_Operations-6C63FF?style=for-the-badge)
 
-Bienvenido a mi espacio en GitHub. Soy **Mauro Pereyra**, Analista de Operaciones y Soporte T®¶cnico con formaci®Æn en Ciencias de la Computaci®Æn y experiencia en plataformas de aprendizaje, soporte a usuarios, automatizaci®Æn, procesamiento de datos y desarrollo de herramientas locales.
-
-Me gusta construir soluciones simples y ®≤tiles para problemas reales: organizar informaci®Æn, reducir tareas repetitivas, generar reportes claros y convertir procesos manuales en flujos m®¢s ordenados.
+Soy **Mauro Pereyra**, Operations Analyst / Technical Support con formaci√≥n en Ciencias de la Computaci√≥n, experiencia en plataformas de aprendizaje, soporte t√©cnico, operaciones educativas, automatizaci√≥n y procesamiento de datos.
 
 ---
 
-## ????? Sobre m®™
-
-Actualmente trabajo como **E-Learning Support Analyst en SoyHenry, dentro del ®¢rea Mercado Libre**, donde participo en la gesti®Æn operativa de programas t®¶cnicos, soporte a estudiantes e instructores, administraci®Æn de cohortes, coordinaci®Æn de sesiones y mantenimiento de contenidos educativos dentro de plataformas de aprendizaje.
-
-En mi d®™a a d®™a combino tareas de **operaciones, soporte t®¶cnico, gesti®Æn de accesos, control de calidad de contenidos, HTML + CSS y resoluci®Æn de incidencias**.
-
-Tambi®¶n cuento con experiencia previa como **Data Operator en ProdSoftware / Bright Sector SRL**, donde trabaj®¶ con ingreso, validaci®Æn y an®¢lisis de datos, investigaci®Æn t®¶cnica, documentaci®Æn y preparaci®Æn de datasets usando **Java y Python**.
-
----
-
-## ?? Proyecto destacado
-
-### ??? People Image Dataset Builder  
-<a href="https://github.com/Mauro-coder555/google-images-people-dataset" target="_blank" rel="noopener">Repositorio</a>
-
-Aplicaci®Æn de escritorio desarrollada en **Java** para construir datasets de im®¢genes de personas a partir de b®≤squedas automatizadas en Google Images.
-
-El sistema permite cargar un archivo JSON con personas, buscar im®¢genes por nombre y sin®Ænimos, descargar im®¢genes, generar metadata individual en formato JSON y empaquetar el resultado final en un archivo `.tar.gz` listo para distribuci®Æn o procesamiento posterior.
-
-**Qu®¶ incluye:**
-
-- B®≤squeda autom®¢tica de im®¢genes en Google Images.
-- Lectura de personas desde un archivo JSON.
-- Soporte para nombres alternativos o sin®Ænimos.
-- Descarga de im®¢genes originales cuando est®¢n disponibles.
-- Generaci®Æn de metadata por imagen y por persona.
-- Filtros configurables de resoluci®Æn, tipo, formato y licencia.
-- Interfaz gr®¢fica simple con Java Swing.
-- Ejecuci®Æn alternativa mediante archivo `.properties`.
-- Empaquetado final del dataset en formato `.tar.gz`.
-- Uso de Selenium Manager para resolver ChromeDriver autom®¢ticamente.
-
-**Tecnolog®™as:** Java 21, Maven, Selenium WebDriver, Java Swing, Gson, Apache Tika, Apache Commons, SLF4J, WebP Support.
-
----
-
-## ?? Otros proyectos recientes
-
-### ??? IT Evidence Collector  
-<a href="https://github.com/Mauro-coder555/it-evidence-collector" target="_blank" rel="noopener">Repositorio</a>
-
-Aplicaci®Æn local para soporte t®¶cnico y troubleshooting inicial en Windows. Recolecta informaci®Æn b®¢sica del equipo en modo solo lectura y genera reportes Markdown con resumen r®¢pido, hallazgos principales y detalle t®¶cnico.
-
-**Tecnolog®™as:** Python, Tkinter, Windows Events, Markdown.
-
----
-
-### ?? Folder Organizer  
-<a href="https://github.com/Mauro-coder555/folder-organizer" target="_blank" rel="noopener">Repositorio</a>
-
-Aplicaci®Æn local creada en Python para ayudar a personas no t®¶cnicas a ordenar carpetas desorganizadas de forma simple, visual y segura. Analiza archivos, propone una clasificaci®Æn autom®¢tica, muestra una vista previa y solo mueve archivos cuando el usuario confirma.
-
-**Tecnolog®™as:** Python, Tkinter, pathlib, shutil, JSON, unittest.
-
----
-
-### ?? Support Knowledge Finder  
-<a href="https://github.com/Mauro-coder555/support-knowledge-finder" target="_blank" rel="noopener">Repositorio</a>
-
-Aplicaci®Æn local para registrar problemas de soporte, buscar casos similares y generar runbooks en Markdown a partir de soluciones verificadas. Est®¢ pensada para transformar conocimiento disperso de soporte en documentaci®Æn reutilizable.
-
-**Tecnolog®™as:** Python, Streamlit, SQLite, Markdown, b®≤squeda por texto.
-
----
-
-### ?? Backup Health  
-<a href="https://github.com/Mauro-coder555/backup-health" target="_blank" rel="noopener">Repositorio</a>
-
-Herramienta local para auditar carpetas de backups existentes y evaluar si las copias parecen estar actualizadas, completas y listas para restaurar. Calcula un puntaje de salud y genera reportes Markdown con riesgos y recomendaciones.
-
-**Tecnolog®™as:** Python, Streamlit, Pandas, Pytest, Markdown.
-
----
-
-### ?? Clear Feedback  
-<a href="https://github.com/Mauro-coder555/clear-feedback" target="_blank" rel="noopener">Repositorio</a>
-
-Aplicaci®Æn local para analizar respuestas abiertas de formularios, encuestas y feedback de usuarios. Ayuda a convertir texto libre en insights accionables, temas recurrentes, porcentajes de menci®Æn, ejemplos representativos y acciones sugeridas.
-
-**Tecnolog®™as:** Python, Streamlit, Pandas, Ollama opcional, IA local, CSV, Markdown.
-
----
-
-## ?? Proyectos de Data Science y Data Analytics
-
-### ?? Steam Recommendation System  
-<a href="https://github.com/Mauro-coder555/Steam-Rec-System" target="_blank" rel="noopener">Repositorio</a>
-
-Sistema de recomendaci®Æn basado en datos de Steam. Incluye procesos de ETL, an®¢lisis de datos, consultas ®≤tiles, modelado y despliegue de una API.
-
-**Tecnolog®™as:** Python, Pandas, ETL, Machine Learning, FastAPI, Render, NLP.
-
----
-
-### ?? Road Safety System  
-<a href="https://github.com/Mauro-coder555/analitycs-road-safety-system" target="_blank" rel="noopener">Repositorio</a>
-
-Proyecto de an®¢lisis exploratorio sobre homicidios y v®™ctimas en siniestros viales de CABA. Incluye generaci®Æn de KPIs, visualizaci®Æn interactiva y gesti®Æn de base de datos en contenedores.
-
-**Tecnolog®™as:** Python, Plotly, Apache Superset, Docker, PostgreSQL, Git.
-
----
-
-### ? Google + Yelp Reviews Analysis  
-<a href="https://github.com/Mauro-coder555/Yelp-Google-Maps-Reviews-Recommendations" target="_blank" rel="noopener">Repositorio</a>
-
-Proyecto grupal end-to-end de an®¢lisis de reviews de Google Maps y Yelp. Particip®¶ como **l®™der y Data Engineer**, trabajando sobre procesos de ETL, arquitectura cloud y an®¢lisis de informaci®Æn.
-
-**Tecnolog®™as:** Python, ETL, GCP, Cloud Functions, Cloud Storage, BigQuery, Looker, Machine Learning.
-
----
-
-## ?? Experiencia profesional
+## üíº Experiencia y formaci√≥n
 
 ### E-Learning Support Analyst  
-**SoyHenry - ®¢rea Mercado Libre**  
-Julio 2025 - Actualidad
+**SoyHenry - √Årea Mercado Libre**  
+**Julio 2025 - Actualidad**
 
-- Gesti®Æn operativa de cohortes de aprendizaje para programas t®¶cnicos.
-- Creaci®Æn y administraci®Æn de grupos, sesiones y espacios en plataformas de aprendizaje.
-- Coordinaci®Æn de agendas acad®¶micas y sesiones en Google Meet.
-- Implementaci®Æn y mantenimiento de contenido educativo con HTML + CSS.
-- Control de calidad de enlaces, recursos t®¶cnicos y consistencia visual.
-- Soporte t®¶cnico a estudiantes e instructores.
-- Gesti®Æn de tickets internos, accesos corporativos, entornos y recursos vinculados al ecosistema de Mercado Libre.
+Actualmente trabajo en la gesti√≥n operativa y soporte t√©cnico de programas de formaci√≥n vinculados a Mercado Libre.
+
+Mis principales tareas incluyen:
+
+- Gesti√≥n de cohortes de aprendizaje para programas t√©cnicos.
+- Administraci√≥n de grupos, sesiones y espacios en Learning Hub.
+- Coordinaci√≥n de agendas acad√©micas y sesiones en Google Meet.
+- Implementaci√≥n y mantenimiento de contenido educativo con **HTML + CSS**.
+- Control de calidad de materiales digitales, enlaces y recursos t√©cnicos.
+- Soporte t√©cnico a estudiantes e instructores mediante Slack y herramientas internas.
+- Gesti√≥n de accesos, tickets internos, entornos y recursos corporativos.
+
+Esta experiencia me permite combinar operaci√≥n, soporte t√©cnico, documentaci√≥n, control de calidad y mejora continua de procesos digitales.
 
 ### Data Operator  
 **ProdSoftware / Bright Sector SRL**  
-Agosto 2022 - Junio 2023
+**Agosto 2022 - Junio 2023**
 
-- Ingreso, validaci®Æn y an®¢lisis de datos en Google Sheets.
-- Clasificaci®Æn de informaci®Æn proveniente de plataformas e-commerce.
-- Investigaci®Æn y documentaci®Æn de especificaciones t®¶cnicas.
-- Preparaci®Æn de datasets y procesamiento de datos con scripts en Java y Python.
+- Ingreso, validaci√≥n y an√°lisis de datos en Google Sheets.
+- Clasificaci√≥n de informaci√≥n proveniente de plataformas e-commerce.
+- Investigaci√≥n y documentaci√≥n de especificaciones t√©cnicas.
+- Preparaci√≥n de datasets y procesamiento de datos con scripts en **Java** y **Python**.
 
----
-
-## ?? Educaci®Æn
+### Educaci√≥n
 
 - **Data Science Henry Bootcamp**  
-  800 horas de formaci®Æn te®Ærico-pr®¢ctica.  
+  800 horas de formaci√≥n te√≥rico-pr√°ctica.  
   Agosto 2023 - Marzo 2024
 
-- **Licenciatura en Ciencias de la Computaci®Æn**  
+- **Licenciatura en Ciencias de la Computaci√≥n**  
   Universidad Nacional del Sur.  
-  Segundo a?o completado.  
+  Segundo a√±o completado.  
   2016 - 2021
 
 ---
 
-## ??? Tecnolog®™as
+## üõ†Ô∏è Herramientas y tecnolog√≠as
 
-### Lenguajes y an®¢lisis de datos
+### Lenguajes y datos
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
 
-### Automatizaci®Æn, soporte y desarrollo
+### Desarrollo, automatizaci√≥n y soporte
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge)
-![Tkinter](https://img.shields.io/badge/Tkinter-Local_App-blue?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 
-### Bases de datos y visualizaci®Æn
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge)
-![Apache Superset](https://img.shields.io/badge/Apache_Superset-20A6C9?style=for-the-badge)
-
-### Herramientas
+### Plataformas y herramientas de trabajo
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
 ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?logo=google&logoColor=white&style=for-the-badge)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge)
 
 ---
 
-## ?? Intereses actuales
+## üöÄ Top 5 proyectos
 
-- Automatizaci®Æn de procesos operativos.
-- Herramientas locales para soporte t®¶cnico.
-- Procesamiento y an®¢lisis de datos.
-- Aplicaciones simples para usuarios no t®¶cnicos.
-- IA local aplicada a productividad, documentaci®Æn y an®¢lisis de texto.
-- Calidad de datos, reportes y generaci®Æn de documentaci®Æn reutilizable.
+### 1. üñºÔ∏è People Image Dataset Builder  
+<a href="https://github.com/Mauro-coder555/google-images-people-dataset" target="_blank" rel="noopener">Repositorio</a>
+
+Aplicaci√≥n de escritorio en **Java** para construir datasets de im√°genes de personas a partir de b√∫squedas automatizadas en Google Images.
+
+Permite cargar personas desde un JSON, buscar im√°genes por nombre y sin√≥nimos, descargar resultados, generar metadata y empaquetar el dataset final en `.tar.gz`.
+
+**Tecnolog√≠as:** Java 21, Maven, Selenium WebDriver, Java Swing, Gson, Apache Tika, Apache Commons, SLF4J.
 
 ---
 
-## ?? Conect®¢ conmigo
+### 2. üõ†Ô∏è IT Evidence Collector  
+<a href="https://github.com/Mauro-coder555/it-evidence-collector" target="_blank" rel="noopener">Repositorio</a>
+
+Herramienta local para soporte t√©cnico en Windows. Recolecta evidencia b√°sica del equipo en modo solo lectura y genera reportes Markdown para facilitar el diagn√≥stico inicial.
+
+**Tecnolog√≠as:** Python, Tkinter, Windows Events, Markdown.
+
+---
+
+### 3. üìÅ Folder Organizer  
+<a href="https://github.com/Mauro-coder555/folder-organizer" target="_blank" rel="noopener">Repositorio</a>
+
+Aplicaci√≥n local para ordenar carpetas desorganizadas de forma simple y segura. Analiza archivos, propone una clasificaci√≥n autom√°tica y muestra una vista previa antes de moverlos.
+
+**Tecnolog√≠as:** Python, Tkinter, pathlib, shutil, JSON, unittest.
+
+---
+
+### 4. üìö Support Knowledge Finder  
+<a href="https://github.com/Mauro-coder555/support-knowledge-finder" target="_blank" rel="noopener">Repositorio</a>
+
+Aplicaci√≥n para registrar problemas de soporte, buscar casos similares y generar runbooks en Markdown a partir de soluciones verificadas.
+
+**Tecnolog√≠as:** Python, Streamlit, SQLite, Markdown.
+
+---
+
+### 5. üéÆ Steam Recommendation System  
+<a href="https://github.com/Mauro-coder555/Steam-Rec-System" target="_blank" rel="noopener">Repositorio</a>
+
+Sistema de recomendaci√≥n basado en datos de Steam. Incluye procesos de ETL, an√°lisis de datos, consultas √∫tiles, modelado y despliegue de una API.
+
+**Tecnolog√≠as:** Python, Pandas, ETL, Machine Learning, FastAPI, Render, NLP.
+
+---
+
+## üìå Intereses actuales
+
+- Automatizaci√≥n de procesos operativos.
+- Herramientas locales para soporte t√©cnico.
+- Procesamiento y an√°lisis de datos.
+- Aplicaciones simples para usuarios no t√©cnicos.
+- IA local aplicada a productividad y documentaci√≥n.
+- Calidad de datos y generaci√≥n de reportes claros.
+
+---
+
+## üåê Conect√° conmigo
 
 - <a href="https://www.linkedin.com/in/mauroandrespereyra" target="_blank" rel="noopener">LinkedIn</a>
 - <a href="https://github.com/Mauro-coder555" target="_blank" rel="noopener">GitHub</a>
 
 ---
 
-?Gracias por visitar mi perfil! ??
+¬°Gracias por visitar mi perfil! üöÄ
